@@ -26,7 +26,7 @@ A lot of fun. Visual programming, although limited, is very satisfying in the wa
 
 Fascinated with the chance to learn a new language, I took early responsibility of the programming itself. Gaining an early understanding kept me in this role which may have been unfair on the others in my team. Although I made an effort to walk them through my thought processes as often as possible, I regret perhaps being the reason that they may have not left the experience with the same learning and satisfaction that I received.
 
-Lessons learned where mainly to not rely upon the physical elements of a machine (a group is only as strong as its weakest member), to define different but equally as important roles within the team, and to plan the project around the assesment criteria (were we only allowed one attempt at each challenge then our more stringent ideas may have been applicable). 
+Lessons learned where mainly to not rely upon the physical elements of a machine (a group is only as strong as its weakest member), to  rotate or define different but equally as important roles within the team, and to plan the project around the assesment criteria (were we only allowed one attempt at each challenge then our more stringent ideas may have been applicable). 
 
 
 From game concepts to game design
