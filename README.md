@@ -1,7 +1,6 @@
 # comp150-cpd
 
 ## Week 1
-
 Weekly journal goes here. Reflect.
 
 For part D:
@@ -13,6 +12,7 @@ mastery of reflective writing, eloquent, fair, and constructive tone
 spelling and grammar
 structure: underlying the key skills, well constructed intro and conclusion, well constructed sentences and paragraphs
 
+
 For the weekly CPD:
 (a) Progress has been described with adequate detail; 
 (b) Problems and issues have been clearly explained and assessed; 
@@ -21,6 +21,7 @@ For the weekly CPD:
 
 
 Lego robot olympiad
+
 
 A lot of fun. Visual programming, although limited, is very satisfying in the way that it produces immediate results without having to worry about compiling or debugging. Deciding to learn intuitively lead to a structured rigor with the 'code' which led to practices like using a distance to wheel rotation ratio modifier, and mapping the exact turning command increments to the correct angles which helped to speed up subsequent challenges. Limitations with the accuracy and consistency of the lego motors exponentially increased margins of error with each subsequent command so we looked to use the supplied board markers as waypoints to fine tune the later stages of each program. Again the pysical limitations affected the implementation of the theories and it became obvious whilst watching the other groups that a brute force method of mapping the ideal path rather than calculating it gave many more succesful results, given the generous time leeway in the final assessment.
 
@@ -51,3 +52,10 @@ At last some 'gritty coding' (by my novice standards at least). Python is provin
 
 When we began work on our pre production tasks and assignments project, we fairly quickly formed a small group to discuss ideas. Recognising that this was the ultimate goal of the project ipso facto the entire module, I was surprised that more students did not do the same. My lack of creative thinking came quickly to light as I scrapped each of my ideas in favour of others, and it felt reassuring not to knowingly waste my time on a project that I knew would not come to fruition. Sadly the world is not ready for an armoured weaponised cat to infiltrate Buckingham Palace just yet.
 
+Presenting to game designers
+
+Everyone else seemed to struggle with understanding the maths principles shown in Ed's lecture although I found it all reassuringly accessible. I am quite comfortable with calculus and enjoyed the worksheet that followed, despite misreading a question and answering it incorrectly. The big O notation is the first real chance to analyse my own code in a meaningful way other than simply stating that it is messy, neat, or thoroughly commented and I hope that there are other gauges that will further this self analysis and direction. I get fascinated with the idea of unsolved mysteries and aim to read further on the P vs NP problem that Ed explained. Elsewhere I am still struggling to formulate a meaningful agile essay question but will continue to try and think of an original and meaningful topic.
+
+Scholarly Thinking and Writing in Game Studies
+
+This week involved a lot of self directed programming time so it is a little harder to think of any problems that have been faced. I get on well with the others involved in my project and we are all quite proactive with doing as much as we can. The big news is that we are all starting to become more proficient with github! This was a big issue for a while with many pushes and pulls resulting in failure messages and resorting to use other messenger programs such as discord instead. Knowing that the marking rubric clearly states using github for version control this was a worry for a while. I think I am at two whole days now without an unsuccessful pull/push!
