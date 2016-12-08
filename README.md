@@ -1,24 +1,5 @@
 # comp150-cpd
 
-## Week 1
-Weekly journal goes here. Reflect.
-
-For part D:
-5 appropriate key skills mentioned, specific and relevant, 2 are priority, all skill domains considered, little to no overlap between skills.
-significant self critisism, accurate and pertinant
-evident reflection, depth of insight
-5 plans are proposed, specific, measurable, achievable, relevant, time bound
-mastery of reflective writing, eloquent, fair, and constructive tone
-spelling and grammar
-structure: underlying the key skills, well constructed intro and conclusion, well constructed sentences and paragraphs
-
-
-For the weekly CPD:
-(a) Progress has been described with adequate detail; 
-(b) Problems and issues have been clearly explained and assessed; 
-(c) There is evidence of reﬂection; 
-(d) At least one appropriate SMART objective has been actioned;
-
 
 ## Week one
 
@@ -74,8 +55,8 @@ Deadlines are starting to loom a little more readily now with one assignment alr
 
 ## Week ten
 
-Okay I should not have been at all confident in my writing. It's been too long since I have had to write anything formal and no matter how eloquent, or how proud of my spelling I am, the two writing assignments were a struggle for me. Meanwhile more assignments are due and it seems as if the curator is barely advancing at all.
+Okay I should not have been at all confident in my writing. It's been too long since I have had to write anything formal and no matter how eloquent, or how proud of my spelling I am, the two writing assignments were a struggle for me. Meanwhile more assignments are due and it seems as if the curator is barely advancing at all. On a plus note, we have now been introduced to c++ which is exciting to see what we will be working with for the next two years.
 
 ## Week eleven
 
-Deadlines...
+Deadlines are upon us and I regret having left the research journal so late. It was a large task to find and read twenty two research papers, let alone construct them into a readable journal. All the while with the Agile essay hanging over me. The curator project is coming on nicely now at least and I am quite proud of what we have managed to achieve in this time. I have taken some annual leave from my job so that has freed up some time to work on these. All in all despite having greatly enjoyed my first term at Falmouth, I am looking forward to regaining some work/play balance over Christmas.
