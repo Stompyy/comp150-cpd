@@ -50,6 +50,7 @@ At last some 'gritty coding' (by my novice standards at least). Python is provin
 
 When we began work on our pre production tasks and assignments project, we fairly quickly formed a small group to discuss ideas. Recognising that this was the ultimate goal of the project ipso facto the entire module, I was surprised that more students did not do the same. My lack of creative thinking came quickly to light as I scrapped each of my ideas in favour of others, and it felt reassuring not to knowingly waste my time on a project that I knew would not come to fruition. Sadly the world is not ready for an armoured weaponised cat to infiltrate Buckingham Palace just yet.
 
+
 ## Week five
 
 Everyone else seemed to struggle with understanding the maths principles shown in Ed's lecture although I found it all reassuringly accessible. I am quite comfortable with calculus and enjoyed the worksheet that followed, despite misreading a question and answering it incorrectly. The big O notation is the first real chance to analyse my own code in a meaningful way other than simply stating that it is messy, neat, or thoroughly commented and I hope that there are other gauges that will further this self analysis and direction. I get fascinated with the idea of unsolved mysteries and aim to read further on the P vs NP problem that Ed explained. Elsewhere I am still struggling to formulate a meaningful agile essay question but will continue to try and think of an original and meaningful topic.
@@ -74,3 +75,7 @@ Deadlines are starting to loom a little more readily now with one assignment alr
 ## Week ten
 
 Okay I should not have been at all confident in my writing. It's been too long since I have had to write anything formal and no matter how eloquent, or how proud of my spelling I am, the two writing assignments were a struggle for me. Meanwhile more assignments are due and it seems as if the curator is barely advancing at all.
+
+## Week eleven
+
+Deadlines...
