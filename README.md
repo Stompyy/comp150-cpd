@@ -64,7 +64,10 @@ Deadlines are upon us and I regret having left the research journal so late. It 
 
 ## Semester two!
 
+# Where to focus?
 It has been stressed to us that our primary focus should currently be on the group project. This is in direct contrast to the first semester where there was an equal focus on all the modules. This has lead to other deadlines creeping up on us all. The essay proposal and hardware hacking plans in particular were a little rushed through. I have now collected all of the deadlines, large or small, into one concise notepad document - now always open in my desktop. 
+
+I can reflect at this point that it is pertinant to regularly check said notepad document. again
 
 The largest change has been being thrust into a group of twelve students, mostly strangers to each other, to come together and work on a project together. Perhaps it is just pride but I truly believe that we are the strongest team. After hearing stories of other teams barely leaving the drawing board, with team members rarely if ever attending stand ups, I feel very lucky to be a part of this team.
 
