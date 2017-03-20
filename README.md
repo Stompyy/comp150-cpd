@@ -62,7 +62,9 @@ Okay I should not have been at all confident in my writing. It's been too long s
 Deadlines are upon us and I regret having left the research journal so late. It was a large task to find and read twenty two research papers, let alone construct them into a readable journal. All the while with the Agile essay hanging over me. The curator project is coming on nicely now at least and I am quite proud of what we have managed to achieve in this time. I have taken some annual leave from my job so that has freed up some time to work on these. All in all despite having greatly enjoyed my first term at Falmouth, I am looking forward to regaining some work/play balance over Christmas.
 
 
-# Semester two!  (840 words so far!)
+# Semester two!
+
+(840 words so far!)
 
 ## Where to focus?
 It has been stressed to us that our primary focus should currently be on the group project. This is in direct contrast to the first semester where there was an equal focus on all the modules. This has lead to other deadlines creeping up on us all. The essay proposal and hardware hacking plans in particular were a little rushed through. I have now collected all of the deadlines, large or small, into one concise notepad document - now always open in my desktop. 
