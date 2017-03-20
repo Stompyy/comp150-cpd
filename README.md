@@ -67,7 +67,9 @@ Deadlines are upon us and I regret having left the research journal so late. It 
 # Where to focus?
 It has been stressed to us that our primary focus should currently be on the group project. This is in direct contrast to the first semester where there was an equal focus on all the modules. This has lead to other deadlines creeping up on us all. The essay proposal and hardware hacking plans in particular were a little rushed through. I have now collected all of the deadlines, large or small, into one concise notepad document - now always open in my desktop. 
 
-I can reflect at this point that it is pertinant to regularly check said notepad document. again
+I can reflect at this point that it would be pertinent to regularly check said notepad document. Again, in the excitement of working on a project that has been previously out of a single developers scope, with students of many other disciplines, deadlines have sneakily crept up. It has been easier to rally this time, perhaps because of having to have written in an academic style relatively recently compared to before last semesters tasks, or perhaps because I find the subject of portability far more interesting than that of Agile software development for an essay subject. In either case, it is with refreshing anticipation rather than looming dread that I face the coming research journal task. Despite, and one day perhaps I will learn, having delayed starting it later than I should have.
+
+# The team
 
 The largest change has been being thrust into a group of twelve students, mostly strangers to each other, to come together and work on a project together. Perhaps it is just pride but I truly believe that we are the strongest team. After hearing stories of other teams barely leaving the drawing board, with team members rarely if ever attending stand ups, I feel very lucky to be a part of this team.
 
